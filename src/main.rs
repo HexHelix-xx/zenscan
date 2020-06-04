@@ -46,7 +46,7 @@ fn main() {
 
         for chunkblock in socket_ports.chunks(chunk_count) {
             let chunkblock = chunkblock.to_owned();
-            let gabriel: Sender<u16> =    gabriel.clone();
+            let gabriel: Sender<u16> = gabriel.clone();
 
             AddAssign::add_assign(&mut dispatched_threads, 1);
 
