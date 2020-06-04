@@ -1,0 +1,13 @@
+[package]
+name = "zenscan"
+version = "0.1.0"
+authors = ["SecretShangri-La <byobu@vivaldi.net>"]
+edition = "2018"
+license ="MIT"
+readme = "README.md"
+description = "This program is port scanner to target server."
+keywords = ["security", "portscanner", "cli"]
+categories = ["network-programming", "Command-line interface"]  
+
+[dependencies]
+clap = "2.27.0"
