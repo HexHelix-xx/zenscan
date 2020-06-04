@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## zenscan
 
 This program is do server open ports scanning. This scanner then low spec computer might be decrease your CPU power. presently is fixing faulty point.
