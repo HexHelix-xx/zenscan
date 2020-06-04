@@ -1,7 +1,7 @@
 [package]
 name = "zenscan"
 version = "0.1.2"
-authors = ["SecretShangri-La <byobu@vivaldi.net>"]
+authors = ["Nirna Kayanovsky <nirnakayanovsky@gmail.com>"]
 edition = "2018"
 license ="MIT"
 readme = "README.md"
