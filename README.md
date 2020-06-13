@@ -4,11 +4,35 @@ This program is do server open ports scanning. This scanner then low spec comput
 
 ## How to use
 
-This Program is used to `zenscan <ipv4address or host>` format. `host`is after implementation in future.
+This Program is used to `zenscan < -i IpAddress or --host TargetHost>` format.
+
+## Options
+You can be obtained with `zenscan -h`
+```
+$ zenscan -h
+
+        Zen-Scan 0.1.3
+        Nirna Kayanovsky <nirnakayanovsky@gmail.com>
+
+        This program is port scanner to target server.
+        not' normal port scanning to do and destructive specification changes may occur.
+        This program is test stage.
+
+        USAGE:
+            zenscan <options> 
+                  
+        Options:
+        -h, --help            Display this massage
+        -V, --version         Display version info
+        -i <IPAddress>        The address to scan
+        --host <Hostname>     The host scan, trans as IP
+
+```
+
 ### output
 ```
-$ zenscan 172.17.0.2
-[+] start scanning... by 5s
+$ zenscan -i 172.17.0.2
+[+] start scanning... by 5s. zenscan version for 0.1.3
 [+] found the open port => 21
 [+] found the open port => 23
 [+] found the open port => 22
