@@ -1,6 +1,8 @@
 ## zenscan
 
-This program is do server open ports scanning. This scanner then low spec computer might be decrease your CPU power. presently is fixing faulty point.
+This program scans the open ports of the server.
+If your CPU doesn't have enough computing power, it may not work properly.
+We are working on fixing the bug.
 
 ## How to use
 
