@@ -125,5 +125,5 @@ fn main() {
             for target_ports in open_ports {
                 println!("{}", target_ports);
             }
-    println!("--------------------------end-------------------------");
+    println!("-------------------------end-------------------------");
 }
