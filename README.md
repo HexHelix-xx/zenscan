@@ -14,7 +14,7 @@ You can be obtained with `zenscan -h`
 $ zenscan -h
 
         Zen-Scan 0.1.3
-        Nirna Kayanovsky <nirnakayanovsky@gmail.com>
+        Nirna Kayanovsky <k033ac@yandex.com>
 
         This program is port scanner to target server.
         not' normal port scanning to do and destructive specification changes may occur.
